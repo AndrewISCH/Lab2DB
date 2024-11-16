@@ -6,7 +6,7 @@ const pgClient = new Client({
   user: "postgres",
   host: "localhost",
   database: "cafeDB",
-  password: "80800251",
+  password: "12345678",
   port: 5432,
 });
 
